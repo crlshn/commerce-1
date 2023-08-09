@@ -410,7 +410,7 @@ importers:
       '@types/node-fetch': 2.6.2
       '@types/react': ^18.0.14
       '@vercel/commerce': workspace:*
-      dotenv: ^16.0.1
+      dotenv: ^16.3.1
       graphql: ^16.0.0
       js-cookie: ^3.0.1
       lint-staged: ^13.0.3
@@ -440,7 +440,7 @@ importers:
       '@types/node': 18.7.18
       '@types/node-fetch': 2.6.2
       '@types/react': 18.0.20
-      dotenv: 16.0.2
+      dotenv: 16.3.1
       graphql: 16.6.0
       lint-staged: 13.0.3
       next: 12.3.0_672uxklweod7ene3nqtsh262ca
@@ -2017,7 +2017,7 @@ packages:
       '@types/jsonwebtoken': 8.5.9
       chalk: 4.1.2
       debug: 4.3.4
-      dotenv: 16.0.2
+      dotenv: 16.3.1
       graphql: 16.6.0
       graphql-request: 5.0.0_graphql@16.6.0
       http-proxy-agent: 5.0.0
@@ -4861,6 +4861,11 @@ packages:
 
   /dotenv/16.0.2:
     resolution: {integrity: sha512-JvpYKUmzQhYoIFgK2MOnF3bciIZoItIIoryihy0rIA+H4Jy0FmgyKYAHCTN98P5ybGSJcIFbh6QKeJdtZd1qhA==}
+    engines: {node: '>=12'}
+    dev: true
+
+  /dotenv/16.3.1:
+    resolution: {integrity: sha512-IPzF4w4/Rd94bA9imS68tZBaYyBWSCE47V1RGuMrB94iyTOIEwRmVL2x/4An+6mETpLrKJ5hQkB8W4kFAadeIQ==}
     engines: {node: '>=12'}
     dev: true
 
