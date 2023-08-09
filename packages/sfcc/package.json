@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@vercel/commerce": "workspace:*",
-    "commerce-sdk": "^2.7.0"
+    "commerce-sdk": "^2.10.1"
   },
   "peerDependencies": {
     "next": "^13",
