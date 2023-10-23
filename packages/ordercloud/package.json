@@ -65,7 +65,7 @@
     "@types/react": "^18.0.14",
     "@types/cookie": "^0.4.1",
     "@types/node-fetch": "^2.6.2",
-    "lint-staged": "^12.1.7",
+    "lint-staged": "^15.0.2",
     "next": "^13.0.6",
     "prettier": "^2.5.1",
     "react": "^18.2.0",
