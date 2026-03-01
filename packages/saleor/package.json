@@ -73,6 +73,8 @@
     "@types/node-fetch": "^2.6.2",
     "@types/react": "^18.2.45",
     "graphql": "^16.0.0",
+    "lint-staged": "^15.2.0",
+    "next": "^13.0.6",
     "lint-staged": "^12.1.7",
     "next": "^14.0.4",
     "prettier": "^2.5.1",
